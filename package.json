@@ -1,0 +1,21 @@
+{
+  "name": "lineup-rankings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.20",
+    "angular": "^1.4.3",
+    "angular-route": "^1.4.3",
+    "angular-smart-table": "^2.1.11",
+    "angular-ui-bootstrap": "^0.14.3",
+    "angular-ui-grid": "^3.0.1",
+    "ng-tags-input": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

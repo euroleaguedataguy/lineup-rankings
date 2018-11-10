@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>Lineup Rankings</title>
+    <script>document.write('<base href="' + document.location + '" />');</script>
+    <!--<link rel="stylesheet" href="style.css" />-->
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/ng-tags-input/build/ng-tags-input.min.js"></script>
+    <script src="node_modules/angular-ui-grid/ui-grid.min.js"></script>
+    <script src="node_modules/angular-ui-bootstrap/ui-bootstrap-tpls.min.js"></script>
+    <link rel="stylesheet" href="node_modules/ng-tags-input/build/ng-tags-input.min.css" />
+    <link rel="stylesheet" href="node_modules/ng-tags-input/build/ng-tags-input.bootstrap.min.css" />
+    <link rel="stylesheet" href="node_modules/angular-ui-grid/ui-grid.min.css" />
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="style.css"/>
+    <script src="app.js"></script>
+</head>
+
+<body ng-app="plunker" ng-controller="MainCtrl">
+
+<h2>Lineup Rankings</h2><h4>by<a target="_blank"  href="https://twitter.com/EDataGuy">
+    @EuroleagueDataGuy</a></h4>
+<div class="row">&nbsp;</div>
+<div class="row">&nbsp;</div>
+<b>Team: </b>
+<div class="btn-group" uib-dropdown>
+    <button id="single-button" type="button" class="btn btn-primary" uib-dropdown-toggle>
+        {{textForButton}} <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" uib-dropdown-menu aria-labelledby="simple-dropdown">
+        <li role="menuitem">
+            <a href="#" ng-click="change(item)" ng-repeat="item in items">{{item}}</a>
+        </li>
+    </ul>
+</div>
+<b>Number of players: </b>
+<div class="btn-group" uib-dropdown>
+    <button id="single-button2" type="button" class="btn btn-primary" uib-dropdown-toggle>
+        {{textForButton2}} <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" uib-dropdown-menu aria-labelledby="simple-dropdown">
+        <li role="menuitem">
+            <a href="#" ng-click="changeSize(item)" ng-repeat="item in sizes">{{item}}</a>
+        </li>
+    </ul>
+</div>
+<b>Round: </b>
+<div class="btn-group" uib-dropdown>
+    <button id="single-button3" type="button" class="btn btn-primary" uib-dropdown-toggle>
+        {{selectedRound}} <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" uib-dropdown-menu aria-labelledby="simple-dropdown">
+        <li role="menuitem">
+            <a href="#" ng-click="changeRound(item)" ng-repeat="item in rounds">{{item}}</a>
+        </li>
+    </ul>
+</div>
+<p></p>
+
+<tags-input ng-model="tags" on-tag-added="tagChanged($tag)" on-tag-removed="tagChanged($tag)"  placeholder="Add a player" replace-spaces-with-dashes="false">
+    <auto-complete source="loadCountries($query)"
+                   min-length="1"
+                   max-results-to-show="32"
+                   template="my-custom-template"></auto-complete>
+</tags-input>
+
+<div>
+
+    <!--
+      ui-grid setup for pagination.
+      See gridOptions in the controller for configuration.
+    -->
+    <div id="myGrid" ui-grid="gridOptions" class="grid" ui-grid-pagination></div>
+
+    <uib-pagination total-items="importantCrucialData.length"
+                    ng-model="gridOptions.paginationCurrentPage"
+                    items-per-page="gridOptions.paginationPageSize"
+                    boundary-links="true"
+                    direction-links="true"
+                    max-size="3"
+                    first-text="<<"
+                    previous-text="<"
+                    next-text=">"
+                    last-text=">>"
+                    rotate="true"></uib-pagination>
+</div>
+
+<script type="text/ng-template" id="my-custom-template">
+    <div class="left-panel">
+    </div>
+    <div class="right-panel">
+        <span ng-bind-html="$highlight($getDisplayText())"></span>
+    </div>
+</script>
+</body>
+</html>
