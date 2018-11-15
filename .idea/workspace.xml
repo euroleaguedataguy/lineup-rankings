@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba15b734-4a46-42f5-8516-3fcb46b8c8fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AllRounds_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AllRounds_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AllRounds_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AllRounds_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/AllRounds_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round1_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round1_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round1_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round1_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round1_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round2_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round2_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round2_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round2_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round2_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round3_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round3_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round3_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round3_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round3_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round4_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round4_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round4_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round4_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round4_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round5_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round5_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round5_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round5_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round5_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round6_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round6_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round6_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round6_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Round6_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/playersPerTeam.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/playersPerTeam.json" afterDir="false" />
-    </list>
+    <list default="true" id="ba15b734-4a46-42f5-8516-3fcb46b8c8fa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +32,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+            <state relative-caret-position="46">
+              <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -239,16 +201,15 @@
       <workItem from="1541707648199" duration="1829000" />
       <workItem from="1541804974806" duration="3950000" />
       <workItem from="1541844577586" duration="791000" />
-      <workItem from="1542240138594" duration="480000" />
+      <workItem from="1542240138594" duration="970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37396000" />
+    <option name="totallyTimeSpent" value="37842000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="25" width="1928" height="1033" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -559,8 +520,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
+        <state relative-caret-position="46">
+          <caret line="52" column="53" selection-start-line="52" selection-start-column="53" selection-end-line="52" selection-end-column="53" />
         </state>
       </provider>
     </entry>
