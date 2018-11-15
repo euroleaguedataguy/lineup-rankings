@@ -16,7 +16,8 @@ app.controller('MainCtrl', function($scope, $http, $log, uiGridConstants) {
     $scope.rounds = ["AllRounds"];
     $scope.sizes = [1,2,3,4,5];
 
-    for (i = 1; i <= 6; i++) {
+    var round = 7;
+    for (i = 1; i <= 7; i++) {
         $scope.rounds.push("Round"+i);
     }
 
@@ -58,7 +59,7 @@ app.controller('MainCtrl', function($scope, $http, $log, uiGridConstants) {
             columnDefs.push({"field":"+/-","width":100,cellFilter: 'fractionFilter'});
             columnDefs.push({"field":"MINS","width":100});
             columnDefs.push({"field":"SCORE","width":100});
-            
+
             console.log(columnDefs);
             $scope.gridOptions.columnDefs = columnDefs;
         });
