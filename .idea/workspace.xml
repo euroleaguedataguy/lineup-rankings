@@ -2,7 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba15b734-4a46-42f5-8516-3fcb46b8c8fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round1_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round1_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round1_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round1_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round1_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round1_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round2_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round2_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round2_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round2_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round2_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round2_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round3_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round3_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round3_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round3_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round3_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round3_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round4_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round4_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round4_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round4_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round4_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round4_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round5_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round5_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round5_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round5_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round5_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round5_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round6_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round6_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round6_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round6_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Round6_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/Round6_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/playersPerTeam.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/playersPerTeam.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,13 +52,13 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="252">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="36">
@@ -31,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2034">
-              <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
+            <state relative-caret-position="118">
+              <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -66,9 +102,9 @@
         <option value="$PROJECT_DIR$/tags.json" />
         <option value="$PROJECT_DIR$/countries.json" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -98,9 +134,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -117,6 +150,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -203,14 +239,16 @@
       <workItem from="1541707648199" duration="1829000" />
       <workItem from="1541804974806" duration="3950000" />
       <workItem from="1541844577586" duration="791000" />
+      <workItem from="1542240138594" duration="480000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36872000" />
+    <option name="totallyTimeSpent" value="37396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="25" width="1928" height="1033" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -220,22 +258,22 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3292683" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48099172" visible="true" weight="0.28228387" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.47933885" visible="true" weight="0.2854856" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.5190083" side_tool="true" visible="true" weight="0.28228387" />
+      <window_info id="Structure" order="1" sideWeight="0.5206612" side_tool="true" visible="true" weight="0.2854856" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -505,16 +543,9 @@
     <entry file="file://$PROJECT_DIR$/node_modules/angular/angular.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2034">
-          <caret line="113" column="28" selection-start-line="113" selection-start-column="28" selection-end-line="113" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
+        <state relative-caret-position="252">
           <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
@@ -523,6 +554,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="56" column="30" selection-start-line="56" selection-start-column="30" selection-end-line="56" selection-end-column="30" />
         </state>
       </provider>
     </entry>

@@ -51,28 +51,34 @@ app.controller('MainCtrl', function($scope, $http, $log, uiGridConstants) {
 
             $scope.gridOptions.data = dataToShow;
             $scope.importantCrucialData = dataToShow;
-            var keys = (Object.keys(response.data[0]));
             var columnDefs = [];
-            for(var key in keys){
-                if(isNaN(response.data[0][keys[key]])){
-                    if(keys[key]=="TEAM"){
-                        columnDefs.push({"field":keys[key],"width":300});
-                    } else if (keys[key]=="SCORE"){
-                        columnDefs.push({"field":keys[key],"width":100});
-                    } else if (keys[key]=="LINEUP") {
-                        var width = findLineupWidth(response.data[0][keys[key]]);
-                        columnDefs.push({"field":keys[key],"width":width,cellFilter: 'lineupFilter'});
-                    }
-                } else {
-                    if(keys[key]=="+/-"){
-                        columnDefs.push({"field":keys[key],"width":100,cellFilter: 'fractionFilter'});
-                    } else {
-                        columnDefs.push({"field":keys[key],"width":100});
-                    }
+            columnDefs.push({"field":"TEAM","width":300});
+            var width = findLineupWidth(response.data[0]["LINEUP"]);
+            columnDefs.push({"field":"LINEUP","width":width,cellFilter: 'lineupFilter'});
+            columnDefs.push({"field":"+/-","width":100,cellFilter: 'fractionFilter'});
+            columnDefs.push({"field":"MINS","width":100});
+            columnDefs.push({"field":"SCORE","width":100});
 
-                }
-
-            }
+            // for(var key in keys){
+            //     if(isNaN(response.data[0][keys[key]])){
+            //         if(keys[key]=="TEAM"){
+            //
+            //         } else if (keys[key]=="SCORE"){
+            //
+            //         } else if (keys[key]=="LINEUP") {
+            //
+            //         }
+            //     } else {
+            //         if(keys[key]=="+/-"){
+            //
+            //         } else {
+            //
+            //         }
+            //
+            //     }
+            //
+            // }
+            console.log(columnDefs);
             $scope.gridOptions.columnDefs = columnDefs;
         });
     }
