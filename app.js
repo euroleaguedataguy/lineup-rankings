@@ -58,26 +58,7 @@ app.controller('MainCtrl', function($scope, $http, $log, uiGridConstants) {
             columnDefs.push({"field":"+/-","width":100,cellFilter: 'fractionFilter'});
             columnDefs.push({"field":"MINS","width":100});
             columnDefs.push({"field":"SCORE","width":100});
-
-            // for(var key in keys){
-            //     if(isNaN(response.data[0][keys[key]])){
-            //         if(keys[key]=="TEAM"){
-            //
-            //         } else if (keys[key]=="SCORE"){
-            //
-            //         } else if (keys[key]=="LINEUP") {
-            //
-            //         }
-            //     } else {
-            //         if(keys[key]=="+/-"){
-            //
-            //         } else {
-            //
-            //         }
-            //
-            //     }
-            //
-            // }
+            
             console.log(columnDefs);
             $scope.gridOptions.columnDefs = columnDefs;
         });
