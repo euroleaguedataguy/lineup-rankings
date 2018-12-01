@@ -88,7 +88,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="612" />
     <option name="y" value="25" />
     <option name="width" value="1296" />
@@ -100,8 +100,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -114,6 +112,8 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,11 +204,12 @@
       <workItem from="1542414591328" duration="609000" />
       <workItem from="1542461007857" duration="32000" />
       <workItem from="1542877449248" duration="140000" />
+      <workItem from="1543026033042" duration="632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38623000" />
+    <option name="totallyTimeSpent" value="39255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="25" width="1928" height="1033" extended-state="6" />
@@ -226,12 +227,12 @@
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3292683" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47438017" visible="true" weight="0.2950907" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.47272727" visible="true" weight="0.29829243" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.52561986" side_tool="true" visible="true" weight="0.2950907" />
+      <window_info id="Structure" order="1" sideWeight="0.5272727" side_tool="true" visible="true" weight="0.29829243" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
