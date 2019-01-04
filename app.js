@@ -16,7 +16,7 @@ app.controller('MainCtrl', function($scope, $http, $log, uiGridConstants) {
     $scope.rounds = ["AllRounds"];
     $scope.sizes = [1,2,3,4,5];
 
-    for (i = 1; i <= 15; i++) {
+    for (i = 1; i <= 16; i++) {
         $scope.rounds.push("Round"+i);
     }
 
