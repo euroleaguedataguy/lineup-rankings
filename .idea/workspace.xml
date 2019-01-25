@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ba15b734-4a46-42f5-8516-3fcb46b8c8fa" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/AllRounds_players1.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players1.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/AllRounds_players2.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players2.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/AllRounds_players3.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players4.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/AllRounds_players5.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/AllRounds_players5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/playersPerTeam.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/playersPerTeam.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,8 +45,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+            <state relative-caret-position="234">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -119,6 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,15 +134,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exploration/analysis/Ratings5_14" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newstats-space/newstats-dockerization" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -236,12 +238,13 @@
       <workItem from="1546642710057" duration="610000" />
       <workItem from="1547072799621" duration="572000" />
       <workItem from="1547247434699" duration="148000" />
-      <workItem from="1547856621242" duration="587000" />
+      <workItem from="1547856621242" duration="1310000" />
+      <workItem from="1548410726758" duration="285000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44777000" />
+    <option name="totallyTimeSpent" value="45785000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="25" width="1928" height="1033" extended-state="6" />
@@ -260,12 +263,12 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3292683" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45123968" visible="true" weight="0.34578443" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.44958678" visible="true" weight="0.34951973" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info anchor="right" id="SciView" order="3" />
-      <window_info id="Structure" order="1" sideWeight="0.54876035" side_tool="true" visible="true" weight="0.34578443" />
+      <window_info id="Structure" order="1" sideWeight="0.55041325" side_tool="true" visible="true" weight="0.34951973" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -552,8 +555,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        <state relative-caret-position="234">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
         </state>
       </provider>
     </entry>
